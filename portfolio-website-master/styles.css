@@ -155,7 +155,6 @@ nav .right a span {
   font-size: 18px;
 }
 
-/* SECTION 3: Testimony */
 .testimony-section {
   padding: 0 50px;
   margin-bottom: 100px;
@@ -197,7 +196,6 @@ nav .right a span {
   flex: 8;
 }
 
-/* SECTION 4: Contact */
 .contact-section {
   padding: 0 50px;
   margin-bottom: 100px;
@@ -250,14 +248,12 @@ nav .right a span {
 }
 
 @media (max-width: 850px) {
-  /* SECTION 1: Hero */
   .hero-section .text h2 {
     font-size: 35px;
   }
 }
 
 @media (max-width: 740px) {
-  /* SECTION 1: Hero */
   .hero-section {
     flex-direction: column-reverse;
   }
@@ -266,7 +262,6 @@ nav .right a span {
     width: 300px;
   }
 
-  /* SECTION 3: Testimony */
   .testimony-section {
     text-align: center;
   }
@@ -275,7 +270,6 @@ nav .right a span {
     flex-direction: column;
   }
 
-  /* SECTION 4: Contact */
   .contact-section .group {
     flex-direction: column;
   }
@@ -301,7 +295,6 @@ nav .right a span {
     display: none;
   }
 
-  /* SECTION 1: Hero */
   .hero-section {
     padding: 0 20px;
   }
@@ -310,7 +303,6 @@ nav .right a span {
     font-size: 30px;
   }
 
-  /* SECTION 2: Skills */
   .skills-section {
     padding: 0 20px;
   }
@@ -319,12 +311,11 @@ nav .right a span {
     font-size: 16px;
   }
 
-  /* SECTION 3: Testimony */
+
   .testimony-section {
     padding: 0 20px;
   }
 
-  /* SECTION 4: Contact */
   .contact-section {
     padding: 0 20px;
   }
@@ -416,7 +407,7 @@ nav .right a span {
   margin: 16px 0 18px;
 }
 
-.card-list .card-link .badge-designer {
+.card-list .card-link .badge-cvml {
   color: #B22485;
   background: #F7DFF5;
 }
@@ -426,7 +417,7 @@ nav .right a span {
   background: #FFE3D2;
 }
 
-.card-list .card-link .badge-gamer {
+.card-list .card-link .badge-machine-learning {
   color: #205C20;
   background: #D6F8D6;
 }
