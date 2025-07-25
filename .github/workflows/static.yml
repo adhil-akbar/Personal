@@ -37,7 +37,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload only the content inside the portfolio-master directory
-          path: 'portfolio-master'
+          path: 'portfolio-website-master'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
