@@ -494,7 +494,7 @@ nav .right a span {
 .typing-demo {
   width: 34ch;
   animation:
-    typing 2s steps(22) forwards,
+    typing 4s steps(22) forwards,
     blink .5s step-end 15 alternate,
     hide-cursor 0.1s 7s forwards; 
   white-space: nowrap;
