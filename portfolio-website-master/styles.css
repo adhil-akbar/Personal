@@ -1,3 +1,6 @@
+/* Importing Google fonts - Inter */
+@import url('https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,100..900&display=swap');
+
 :root {
   --text-color: #1a1c20;
   --link-color: #4a76ee;
@@ -355,8 +358,6 @@ nav .right a span {
 }
 
 /* Card Slider Styles */
-/* Importing Google fonts - Inter */
-@import url('https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,100..900&display=swap');
 
 .card-wrapper {
   max-width: 1100px;
